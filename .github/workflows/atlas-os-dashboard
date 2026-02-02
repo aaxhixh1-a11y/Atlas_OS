@@ -1,0 +1,7 @@
+atlas-os-dashboard
+gh repo clone aaxhixh1-a11y/Atlas_OSgit init
+git add .
+git commit -m "Initial Atlas OS dashboard"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/Atlas_OS.git
+git push -u origin mainhttps://github.com/aaxhixh1-a11y/Atlas_OS.git
