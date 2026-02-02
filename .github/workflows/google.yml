@@ -1,3 +1,4 @@
+import.meta.env.VITE_API_KEY
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txtrequirements.txtgit pull1ca912d56c7d0acf0c4e6be8922882e047b01cbchttps://github.com/aaxhixh1-a11y/effective-engi
